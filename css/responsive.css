@@ -1,0 +1,32 @@
+@media (max-width: 640px) {
+  .container {
+    width: min(100% - 32px, var(--content-width));
+  }
+
+  .header-inner {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+
+  .site-nav {
+    gap: 17px;
+    flex-wrap: wrap;
+  }
+
+  .hero {
+    padding-block: 76px 72px;
+  }
+
+  .content-section {
+    padding-block: 48px;
+  }
+
+  .welcome-grid,
+  .details-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-inner {
+    flex-direction: column;
+  }
+}

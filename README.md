@@ -1,2 +1,3 @@
-# cafe-talk-tacoma
-Website for Cafe Talk Tacoma: Japanese Conversation
+# Tacoma KAIWA Circle
+
+Website for Tacoma KAIWA Circle.
